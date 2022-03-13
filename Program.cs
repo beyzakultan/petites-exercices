@@ -58,6 +58,7 @@ namespace prime_numbers
                 Console.Write(a[i] + " ");
             Console.WriteLine("\n");
         }
+        
         public static void Main(string[] args)
         {
             Console.WriteLine("Choose N to display the first N prime number:");
