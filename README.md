@@ -1,2 +1,2 @@
-# petites-exercices
+# petits-exercices
 Solving basic C# problems
